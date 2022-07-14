@@ -6,4 +6,4 @@ Basically, this Computer Network project is to make a network of 5 routers. The 
 4) Sending and receiving Email, Web Browsing, Dynamic IPv4 assigning. 
 5) Making connections among all the networks. 
 
-Note: whole network configuration is done by me so, feel free to reach me for any questions: shahriar.mim01@gmail.com 
+Feel free to reach me for any questions: shahriar.mim01@gmail.com 
